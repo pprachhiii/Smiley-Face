@@ -1,0 +1,29 @@
+.face{
+    width:500px;
+    height:500px;
+    border-radius: 50%;
+    background-color: yellow;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:80px;
+}
+.eyes{
+    gap:60px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.eye{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+    background-color: black; 
+}
+.lips{
+    width:250px;
+    height:80px;
+    background-color: red;
+    border-radius: 0 0 100px 100px ;
+}

@@ -12,10 +12,10 @@ A simple smiley face illustration created using HTML and CSS. This project repre
 - CSS3
 
 ## 🎨 Preview
-![Smiley Face Preview](screenshot.png)
+![Smiley Face Preview] [(screenshot.png)](https://github.com/pprachhiii/Smiley-Face/blob/262e14dff7c21c40e6f55e7ce81f1ded4c451943/Screenshot%20(94).png)
 
 ## 💡 How to Use
-1. Clone : git clone 
+1. Clone : git clone https://github.com/pprachhiii/Smiley-Face.git
 2. Navigate to the project directory: cd your-repo-name
 3. Open index.html in any web browser.
 

@@ -16,11 +16,11 @@ A simple smiley face illustration created using HTML and CSS. This project repre
 
 ## 💡 How to Use
 1. Clone : git clone https://github.com/pprachhiii/Smiley-Face.git
-2. Navigate to the project directory: cd your-repo-name
+2. Navigate to the project directory: cd Smiley-Face
 3. Open index.html in any web browser.
 
 📂 Project Structure
-smiley-face-illustration/
+Smiley-Face/
 │
 ├── index.html        # Main HTML file
 ├── styles.css        # CSS styling for the face
